@@ -26,4 +26,6 @@ numpy
 scikit-learn
 
 # Install Tensorflow
-tensorflow
+Tensorflow
+
+streamlit
