@@ -54,7 +54,7 @@ student = Student(**new_student)
 
 print(student)
 
-# Constraints field function constraints 
+# Field function (constraints,default values, description, regex, expressions) 
 class Student(BaseModel):
     name: str
     age: Optional[int] = None
